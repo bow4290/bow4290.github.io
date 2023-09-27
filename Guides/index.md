@@ -1,5 +1,5 @@
 # Programming Guidebook
-Welcome to the Programming Guidebook! Here you can find step-by-step guides on various programming topics.
+Welcome to the Programming Guidebook! Here you can find step-by-step guides on various programming topics. Main website for Bow 4290 can be found [here](https://www.bow4290.org/).
 
 ## Guides Index
 ### Git / Github - [Jump to starting page](./git_part_1.md)

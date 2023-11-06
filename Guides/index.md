@@ -1,5 +1,5 @@
-# Programming Guidebook
-Welcome to the Programming Guidebook! Here you can find step-by-step guides on various programming topics.
+# Guidebook
+Welcome to the Guidebook! Here you can find step-by-step guides on various FRC topics.
 
 ## Guides Index
 ### Git / Github - [Jump to starting page](./git_part_1.md)

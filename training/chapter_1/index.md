@@ -9,6 +9,11 @@ The official first documentation has a great guide on installing WPILib that can
 
 This installation will include: WPILib VSCode, The correct version of Java, and a few other things. VSCode is a lightweight code editor, and although not necessary it is recommended to use the WPILib specific version of VSCode as your editor when editing robot code. 
 
+## Pages
+- 1.1 [Syntax & Variables](./1_syntax_variables.md)
+- 1.2 [Comments](./2_comments.md)
+- 1.3 Coming Soon...
+
 ---
 
 ### [<< Previous](../) | [Next >>](./syntax_variables.md)

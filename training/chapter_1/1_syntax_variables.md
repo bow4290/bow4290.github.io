@@ -1,4 +1,4 @@
-# 4290 Programming Training - Chapter 1.1
+# 4290 Programming Training Ch 1.1 - Syntax & Variables
 ## Syntax
 The syntax of a programming defines how code written in it will be structured, providing many rules and guides for best practices. The following article(s)explain some of these rules and guides for Java.
 

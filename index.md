@@ -2,6 +2,7 @@
 This website is to store documentation for various aspects of programming FRC robots, made by Bots on Wheels. Main website for Bow 4290 can be found [here](https://www.bow4290.org/).
 
 ## Index
+- [4290 Programming Training](./training/)
 - [Guidebook](./guides/)
 
 ## Important Links (2023 Offseason)

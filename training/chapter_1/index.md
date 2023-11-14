@@ -12,7 +12,7 @@ This installation will include: WPILib VSCode, The correct version of Java, and 
 ## Pages
 - 1.1 [Syntax & Variables](./1_syntax_variables.md)
 - 1.2 [Comments](./2_comments.md)
-- 1.3 [Operators & Basic Math](./3_operators_basic_math.md)
+- 1.3 [Operators & Basic Math](./3_operators.md)
 - 1.4 Coming Soon..
 
 ---

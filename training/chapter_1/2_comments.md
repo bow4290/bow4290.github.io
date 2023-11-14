@@ -30,6 +30,7 @@ void sayHello(){
 } 
 */
 ```
+
 ---
 
-### [<< Previous](./1_syntax_variables.md) | Next (Coming Soon) >>
+### [<< Previous](./1_syntax_variables.md) | [Next >>](./3_operators.md)

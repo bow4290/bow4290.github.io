@@ -15,4 +15,4 @@ The following article(s) explain methods:
 
 ---
 
-### [<<< Previous](./3_operators.md) | Next (Coming Soon...)
+### [<<< Previous](./3_operators.md) | [Next >>>](./5_if_switch_statements.md)

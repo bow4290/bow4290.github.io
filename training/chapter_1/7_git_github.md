@@ -1,4 +1,4 @@
-# 4290 Programming Training Ch1.7 - Git & GitHub
+# 4290 Programming Training Ch 1.7 - Git & GitHub
 ## Basics of Git & GitHub
 Since a full 2-part article has been made on the basics of using Git on this website, I recommend following [that article here](/guides/git_part_1.md).
 
@@ -11,4 +11,4 @@ The official documentation is also a good place to get information about Git, th
 
 ---
 
-### [<<< Previous](./6_object_oriented_basics.md) | Next (Coming Soon...)
+### [<<< Previous](./6_object_oriented_basics.md) | [Next >>>](./8_for_while_loops.md)

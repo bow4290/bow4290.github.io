@@ -6,7 +6,7 @@ This chapter will be going over interacting robots using WPILib and Java, which 
 
 ## Pages
 - 1.1 [FRC Terms](./1_frc_terms.md)
-- 1.2
+- 1.2 Coming Soon...
 
 ---
 

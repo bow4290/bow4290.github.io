@@ -6,4 +6,4 @@ There are a lot of terms used in First Robotics, and even more in programming. K
 
 --- 
 
-### [<< Previous](../) | Next (Coming Soon...)
+### [<< Previous](./) | Next (Coming Soon...)

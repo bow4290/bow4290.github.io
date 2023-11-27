@@ -16,7 +16,8 @@ This installation will include: WPILib VSCode, The correct version of Java, and 
 - 1.4 [Methods](./4_methods.md)
 - 1.5 [If Statements & Switch Cases](./5_if_switch_statements.md)
 - 1.6 [Objects & Classes](./6_object_oriented_basics.md)
-- 1.7 Coming Soon...
+- 1.7 [Git & GitHub](./7_git_github.md)
+- 1.8 [For & While Loops](./8_for_while_loops.md)
 
 ---
 

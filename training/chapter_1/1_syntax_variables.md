@@ -23,4 +23,4 @@ Variables are like containers for values in code. Variables can have many differ
 
 ---
 
-### [<< Previous](./) | Next (Coming Soon) >>
+### [<< Previous](./) | [Next >>](./2_comments.md)

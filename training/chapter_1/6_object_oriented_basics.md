@@ -20,4 +20,4 @@ Despite how they are shown in the previous articles, most codebases follow a mor
 
 ---
 
-### [<<< Previous](./5_if_switch_statements.md) | [Next >>>](./7_git_github.md)
+### [<< Previous](./5_if_switch_statements.md) | [Next >>](./7_git_github.md)

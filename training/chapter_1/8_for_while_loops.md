@@ -10,4 +10,4 @@ In programming, loops are used to repeat a block of code many times, depending o
 
 ---
 
-### [<<< Previous](./7_git_github.md) | Next (Coming...)
+### [<< Previous](./7_git_github.md) | [Next >>](../chapter_2/)

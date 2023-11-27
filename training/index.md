@@ -5,4 +5,5 @@ This book will be organized by chapters, with each one focusing on specific topi
 
 ## Chapters:
 1. [Basics](./chapter_1/)
-2. Coming soon...
+2. [FRC Programming Ⅰ](./chapter_2/)
+3. FRC Programming ⅠⅠ (Coming Soon...)

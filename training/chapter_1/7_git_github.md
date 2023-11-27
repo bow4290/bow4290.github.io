@@ -11,4 +11,4 @@ The official documentation is also a good place to get information about Git, th
 
 ---
 
-### [<<< Previous](./6_object_oriented_basics.md) | [Next >>>](./8_for_while_loops.md)
+### [<< Previous](./6_object_oriented_basics.md) | [Next >>](./8_for_while_loops.md)

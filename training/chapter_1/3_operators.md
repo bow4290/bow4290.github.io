@@ -7,4 +7,4 @@ In programming, operators are symbols used to work with values, such as adding v
 
 ---
 
-### [<< Previous](./2_comments.md) | [Next](./4_methods.md) >>
+### [<< Previous](./2_comments.md) | [Next >>](./4_methods.md)

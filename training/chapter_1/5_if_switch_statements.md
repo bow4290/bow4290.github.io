@@ -10,4 +10,4 @@ Switch case statements are very similar to if statements, and anything that can 
 
 ---
 
-### [<<< Previous](./4_methods.md) | [Next >>>](./6_object_oriented_basics.md)
+### [<< Previous](./4_methods.md) | [Next >>](./6_object_oriented_basics.md)

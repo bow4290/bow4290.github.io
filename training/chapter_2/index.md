@@ -5,8 +5,8 @@ This chapter will be going over interacting robots using WPILib and Java, which 
 - [API docs for C++](https://github.wpilib.org/allwpilib/docs/release/cpp/index.html)
 
 ## Pages
-- 1.1 [FRC Terms](./1_frc_terms.md)
-- 1.2 Coming Soon...
+- 2.1 [FRC Terms](./1_frc_terms.md)
+- 2.2 Coming Soon...
 
 ---
 

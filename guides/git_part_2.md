@@ -21,6 +21,7 @@ The platform we use to store our repositories is called GitHub ([Link here](http
   - [Push Changes](#managing-changes-to-remote-repositories---pushing-changes)
     - [Git CLI](#git-cli-2)
     - [GitHub Desktop](#github-desktop-3)
+
 ---
 
 ## Cloning Repositories

@@ -13,6 +13,10 @@ Command-based programming is also a good example of declarative programming, whi
 - [5. Article - Command Based Presentation Notes (Highlanders 8033)](https://github.com/HighlanderRobotics/Highlanders-Training/blob/main/CommandBasedPresentationNotes.md)
 
 
+## Subsystems
+Subsystems are a vital part of command-based programming. They organize where commands should be operated, and (usually) represent a physical part of a robot, such as drivetrain or arm. Below are some articles that help show this off:
+- [1. Article - Subsystems (WPILib)](https://docs.wpilib.org/en/stable/docs/software/commandbased/subsystems.html)
+- [2. Video - A1U Programming Subsystems (Andromeda One 4905)](https://www.youtube.com/watch?v=tqYLH_EsS04&t=311s)
 
 ---
 

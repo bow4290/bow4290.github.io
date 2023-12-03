@@ -20,4 +20,4 @@ Subsystems are a vital part of command-based programming. They organize where co
 
 ---
 
-### [<< Previous](./1_frc_terms.md) | Next (Coming Soon...)
+### [<< Previous](./1_frc_terms.md) | [Next >>](./3_joysticks_controllers.md)

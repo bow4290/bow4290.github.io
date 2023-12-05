@@ -7,4 +7,4 @@ When interacting with the robot using any type of controller, such as a Xbox Con
 
 ---
 
-### [<< Previous](./2_command_subsystems.md) | Next (Coming Soon...)
+### [<< Previous](./2_command_subsystems.md) | [Next >>](./4_dashboards.md)

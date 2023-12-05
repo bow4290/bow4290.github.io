@@ -8,7 +8,8 @@ This chapter will be going over interacting robots using WPILib and Java, which 
 - 2.1 [FRC Terms](./1_frc_terms.md)
 - 2.2 [Commands & Subsystems](./2_commands_subsystems.md)
 - 2.3 [Joysticks / Controllers](./3_joysticks_controllers.md)
-- 3.4 Coming Soon...
+- 3.4 [Dashboards](./4_dashboards.md)
+- 3.5 Coming Soon...
 
 ---
 

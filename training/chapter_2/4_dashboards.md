@@ -30,4 +30,4 @@ As well as the official dashboards supported by WPILib, there are also other uno
 
 ---
 
-### [<< Previous](./3_joysticks_controllers.md) | Next (Coming Soon...)
+### [<< Previous](./3_joysticks_controllers.md) | [Next >>](./5_can_devices_hardware.md)

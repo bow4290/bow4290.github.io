@@ -9,12 +9,12 @@ Style Guide Version: {{ page.version }} (WIP)
 This is a style guide made for writing Java code for 4290, more specifically using WPILib. This guide should follow all the specifications listed in the [Index for Style Guides](./).
 
 ## Index
-  - [1. Folder \& File Structure](#1-folder--file-structure)
+  - [1. Folder & File Structure](#1-folder--file-structure)
     - [1.1 Code Licensing](#11-code-licensing)
     - [1.2 Citing Borrow Code](#12-citing-borrowed-code)
     - [1.3 Constants File](#13-in-file-constants)
     - [1.4 Mapping Controls](#14-mapping-controls)
-  - [2. Formatting](#2-formatting--naming)
+  - [2. Formatting & Naming](#2-formatting--naming)
     - [2.1 Name Cases](#21-name-cases)
     - [2.2 Indentation](#22-indentation)
 

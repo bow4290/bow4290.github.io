@@ -13,7 +13,7 @@ This is a style guide made for writing Java code for 4290, more specifically usi
   - [1. Folder \& File Structure](#1-folder--file-structure)
     - [1.1 Code Licensing](#11-code-licensing)
     - [1.2 Citing Borrow Code](#12-citing-borrowed-code)
-    - [1.3 Constants File](#13-constants-file)
+    - [1.3 Constants File](#13-in-file-constants)
     - [1.4 Mapping Controls](#14-mapping-controls)
   - [2. Formatting](#2-formatting)
   - [3. Naming](#3-naming)
@@ -40,10 +40,11 @@ class Elevator {
 ```
 
 
-### 1.3 Constants File
-All general robot constants should be contained in 'Constants.java' in the root of the project. Inside this file sub-classes can be made for specific subsystems. This helps maintain one place to find constants for any given subsystem or part of the robot. 
+### 1.3 In-File Constants
+All constants should be contained within their relevant classes. For instance, if there is a constant called 'OPERATOR_CONTROLLER_PORT', this constant should be situated within the 'Controls.java' file.
 
-However, there is an exception to this rule. Constants required for the functionality of any utility classes should be contained inside of that class, keeping utility classes self contained and easy to copy to multiple codebases.
+If a constant seems to general to be contained in a specific class, then it should be put into 'RobotContainer.java', and **not** a 'Constants.java' file.
+
 
 ### 1.4 Mapping Controls
 All controller mappings should be contained in a dedicated 'Controls.java' file in the root of the project.

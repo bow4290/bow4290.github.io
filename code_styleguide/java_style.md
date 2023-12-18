@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Java Style Guide
-version: pre2024
+version: 2024pre1
 ---
 
-Style Guide Version: {{ page.version }}
+Style Guide Version: {{ page.version }} (WIP)
 
 # 4290 Java Style Guide
 This is a style guide made for writing Java code for 4290, more specifically using WPILib. This guide should follow all the specifications listed in the [Index for Style Guides](./).

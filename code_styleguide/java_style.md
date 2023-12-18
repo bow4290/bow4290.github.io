@@ -96,13 +96,13 @@ Indentation should be 2 spaces. This means every time a new block is indented, i
 ```java
 // Correct
 public int twoSpaces(){
-  // This is the correct tab size
+  // This is the correct indentation size
   return 2;
 }
 
 // Incorrect
 public int fourSpaces(){
-    // This is the incorrect tab size
+    // This is the incorrect indentation size
     return 4;
 }
 

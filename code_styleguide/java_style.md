@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Java Style Guide
 version: 2024pre1
 ---

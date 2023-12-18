@@ -3,6 +3,7 @@ This website is to store documentation for various aspects of programming FRC ro
 
 ## Index
 - [4290 Programming Training](./training/)
+- [4290 Code Style Guide](./code_styleguide/)
 - [Guidebook](./guides/)
 
 ## Important Links (2023 Offseason)

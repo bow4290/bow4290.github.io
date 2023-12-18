@@ -4,7 +4,7 @@ title: Java Style Guide
 version: pre2024
 ---
 
-Version: {{ page.version }}
+Style Guide Version: {{ page.version }}
 
 # 4290 Java Style Guide
 This is a style guide made for writing Java code for 4290, more specifically using WPILib. This guide should follow all the specifications listed in the [Index for Style Guides](./).
@@ -15,8 +15,9 @@ This is a style guide made for writing Java code for 4290, more specifically usi
     - [1.2 Citing Borrow Code](#12-citing-borrowed-code)
     - [1.3 Constants File](#13-in-file-constants)
     - [1.4 Mapping Controls](#14-mapping-controls)
-  - [2. Formatting](#2-formatting)
-  - [3. Naming](#3-naming)
+  - [2. Formatting](#2-formatting--naming)
+    - [2.1 Name Cases](#21-name-cases)
+    - [2.2 Indentation](#22-indentation)
 
 ## 1. Folder & File Structure
 ### 1.1 Code Licensing
@@ -52,9 +53,10 @@ All controller mappings should be contained in a dedicated 'Controls.java' file 
 The controls file should be documented with comments at the top of the file, explaining every mapping and its functionality, as well as comments above the implementation of each mapping, explaining what it does. An example of a this:
 
 ```java
-/*
-□ / X - Run Intake
-*/
+/* 
+ * □ / X - Run Intake 
+ */
+  
 
 ...
 
@@ -64,6 +66,45 @@ controller.square_x.whileTrue(bot.intake.runIntake(Args);
 ```
 
 
-## 2. Formatting
+## 2. Formatting & Naming
+### 2.1 Name Cases
+Casing for any names should follow Java's standards, as follows:
+- Most variables and methods use camel case (eg. camelCase), with the first word being all lower case, and each new word starting with a capital letter.
+  
+- Class, interface, and file names use pascal case (eg. PascalCase), with each word starting with a capital letter.
 
-## 3. Naming
+- Constants use upper snake case (eg. UPPER_SNAKE_CASE), with all words being entirely uppercase, and each word separated with underscores.
+
+```java
+// Class using Pascal Case, as well as file with same name.
+public class ExampleClass(){
+  // Constant using UPPER_SNAKE_CASE
+  public static final VALUE_MULTIPLIER = 4;
+
+  // Method and Variable using camelCase
+  public int myValue = 2;
+
+  public int myFunction(){
+    return exampleVariable * VALUE_MULTIPLIER;
+  }
+}
+```
+
+
+### 2.2 Indentation
+Indentation should be 2 spaces. This means every time a new block is indented, it should go forward 2 spaces, and back at the end of the block. An example of this is shown below:
+```java
+// Correct
+public int twoSpaces(){
+  // This is the correct tab size
+  return 2;
+}
+
+// Incorrect
+public int fourSpaces(){
+    // This is the incorrect tab size
+    return 4;
+}
+
+```
+

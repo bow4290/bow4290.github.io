@@ -44,7 +44,7 @@ class Elevator {
 ### 1.3 In-File Constants
 All constants should be contained within their relevant classes. For instance, if there is a constant called 'OPERATOR_CONTROLLER_PORT', this constant should be situated within the 'Controls.java' file.
 
-If a constant seems to general to be contained in a specific class, then it should be put into 'RobotContainer.java', and **not** a 'Constants.java' file.
+If a constant seems too general to be contained in a specific class, then it should be put into 'RobotContainer.java', and **not** a 'Constants.java' file.
 
 
 ### 1.4 Mapping Controls

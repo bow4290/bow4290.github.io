@@ -9,15 +9,15 @@ Style Guide Version: {{ page.version }} (WIP)
 This is a style guide made for writing Java code for 4290, more specifically using WPILib. This guide should follow all the specifications listed in the [Index for Style Guides](./).
 
 ## Index
-  - [1. Folder & File Structure](#1-folder--file-structure)
-    - [1.1 Code Licensing](#11-code-licensing)
-    - [1.2 Citing Borrow Code](#12-citing-borrowed-code)
-    - [1.3 In-file Constants](#13-in-file-constants)
-    - [1.4 Dedicated Control Mapping File](#14-dedicated-control-mapping-file)
-  - [2. Formatting & Naming](#2-formatting--naming)
-    - [2.1 Standard Name Cases](#21-standard-name-cases)
-    - [2.2 Indentation](#22-indentation)
-    - [2.3 No Single Letter Prefixes](#23-no-single-letter-prefixes)
+  - [1. Folder & File Structure][1-0]
+    - [1.1 Code Licensing][1-1]
+    - [1.2 Citing Borrow Code][1-2]
+    - [1.3 In-file Constants][1-3]
+    - [1.4 Dedicated Control Mapping File][1-4]
+  - [2. Formatting & Naming][2-0]
+    - [2.1 Standard Name Cases][2-1]
+    - [2.2 Indentation][2-2]
+    - [2.3 No Single Letter Prefixes][2-3]
 
 ## 1. Folder & File Structure
 ### 1.1 Code Licensing
@@ -117,3 +117,14 @@ public static final leftArmMotor
 ```
 
 
+
+
+[1-0]: #1-folder--file-structure
+[1-1]: #11-code-licensing
+[1-2]: #12-citing-borrowed-code
+[1-3]: #13-in-file-constants
+[1-4]: #14-dedicated-control-mapping-file
+[2-0]: #2-formatting--naming
+[2-1]: #21-standard-name-cases
+[2-2]: #22-indentation
+[2-3]: #23-no-single-letter-prefixes

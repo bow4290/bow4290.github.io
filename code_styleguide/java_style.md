@@ -12,11 +12,12 @@ This is a style guide made for writing Java code for 4290, more specifically usi
   - [1. Folder & File Structure](#1-folder--file-structure)
     - [1.1 Code Licensing](#11-code-licensing)
     - [1.2 Citing Borrow Code](#12-citing-borrowed-code)
-    - [1.3 Constants File](#13-in-file-constants)
-    - [1.4 Mapping Controls](#14-mapping-controls)
+    - [1.3 In-file Constants](#13-in-file-constants)
+    - [1.4 Dedicated Control Mapping File](#14-dedicated-control-mapping-file)
   - [2. Formatting & Naming](#2-formatting--naming)
-    - [2.1 Name Cases](#21-name-cases)
+    - [2.1 Standard Name Cases](#21-standard-name-cases)
     - [2.2 Indentation](#22-indentation)
+    - [2.3 No Single Letter Prefixes](#23-no-single-letter-prefixes)
 
 ## 1. Folder & File Structure
 ### 1.1 Code Licensing
@@ -87,7 +88,7 @@ public class ExampleClass(){
 
 
 ### 2.2 Indentation
-Indentation should be 2 spaces. This means every time a new block is indented, it should go forward 2 spaces, and back 2 at the end of the block. An example of this is shown below:
+Indentation should be 2 spaces. This means every time a new block is indented, it should go forward 2 spaces, and back 2 at the end of the block.
 ```java
 // Correct
 public int twoSpaces(){
@@ -102,4 +103,17 @@ public int fourSpaces(){
 }
 
 ```
+
+### 2.3 No Single Letter Prefixes
+Prefixes to fields containing a single letter should be avoided as much as possible, as they tend to cause more harm then good. There may be a few exceptions to this, and it generally comes down to the discretion of the maintainers on these occasions.
+
+```java
+// Should Be Avoided
+public static final m_leftArmMotor
+
+// Correct
+public static final leftArmMotor
+
+```
+
 

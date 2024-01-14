@@ -1,6 +1,6 @@
 ---
 title: 4290 Java Style Guide
-version: 2024pre1
+version: 2024.0
 ---
 
 Style Guide Version: {{ page.version }} (WIP)
@@ -104,6 +104,7 @@ public int fourSpaces(){
 
 ```
 
+
 ### 2.3 No Single Letter Prefixes
 Prefixes to fields containing a single letter should be avoided as much as possible, as they tend to cause more harm then good. There may be a few exceptions to this, and it generally comes down to the discretion of the maintainers on these occasions.
 
@@ -117,6 +118,8 @@ public static final leftArmMotor
 ```
 
 
+### 2.4 Descriptive Naming
+When naming anything, the name should be descriptive of what it does, while also being concise. Abbreviations should be avoided when possible, and single letter names should not be used.
 
 
 [1-0]: #1-folder--file-structure
@@ -124,7 +127,9 @@ public static final leftArmMotor
 [1-2]: #12-citing-borrowed-code
 [1-3]: #13-in-file-constants
 [1-4]: #14-dedicated-control-mapping-file
+
 [2-0]: #2-formatting--naming
 [2-1]: #21-standard-name-cases
 [2-2]: #22-indentation
 [2-3]: #23-no-single-letter-prefixes
+[2-4]: #24-descriptive-naming

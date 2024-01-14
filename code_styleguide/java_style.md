@@ -3,7 +3,7 @@ title: 4290 Java Style Guide
 version: 2024.0
 ---
 
-Style Guide Version: {{ page.version }} (WIP)
+Style Guide Version: {{ page.version }}
 
 # 4290 Java Style Guide
 This is a style guide made for writing Java code for 4290, more specifically using WPILib. This guide should follow all the specifications listed in the [Index for Style Guides](./).

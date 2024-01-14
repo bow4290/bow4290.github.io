@@ -1,5 +1,5 @@
 ---
-title: Java Style Guide
+title: 4290 Java Style Guide
 version: 2024pre1
 ---
 
@@ -20,11 +20,7 @@ This is a style guide made for writing Java code for 4290, more specifically usi
 
 ## 1. Folder & File Structure
 ### 1.1 Code Licensing
-Codebases should be licensed under one of the two following licenses:
-- A. [MIT License](https://choosealicense.com/licenses/mit/)
-- B. [Apache License](https://choosealicense.com/licenses/apache-2.0/)
-
-All *robot* code should be licensed under MIT, and while any other codebases are up to the discretion of the maintainers, they should still use one of the previously listed licenses.
+All robot, and/or utility code for robots should be licensed under the [MIT license](https://choosealicense.com/licenses/mit/), and while any other codebases are up to the discretion of the maintainers, the MIT License is heavily recommended.
 
 
 ### 1.2 Citing Borrowed Code
@@ -46,7 +42,7 @@ All constants should be contained within their relevant classes. For instance, i
 If a constant seems too general to be contained in a specific class, then it should be put into 'RobotContainer.java', and **not** a 'Constants.java' file.
 
 
-### 1.4 Mapping Controls
+### 1.4 Dedicated Control Mapping File
 All controller mappings should be contained in a dedicated 'Controls.java' file in the root of the project.
 
 The controls file should be documented with comments at the top of the file, explaining every mapping and its functionality, as well as comments above the implementation of each mapping, explaining what it does. An example of a this:
@@ -66,7 +62,7 @@ controller.square_x.whileTrue(bot.intake.runIntake(Args);
 
 
 ## 2. Formatting & Naming
-### 2.1 Name Cases
+### 2.1 Standard Name Cases
 Casing for any names should follow Java's standards, as follows:
 - Most variables and methods use camel case (eg. camelCase), with the first word being all lower case, and each new word starting with a capital letter.
   
@@ -91,7 +87,7 @@ public class ExampleClass(){
 
 
 ### 2.2 Indentation
-Indentation should be 2 spaces. This means every time a new block is indented, it should go forward 2 spaces, and back at the end of the block. An example of this is shown below:
+Indentation should be 2 spaces. This means every time a new block is indented, it should go forward 2 spaces, and back 2 at the end of the block. An example of this is shown below:
 ```java
 // Correct
 public int twoSpaces(){
